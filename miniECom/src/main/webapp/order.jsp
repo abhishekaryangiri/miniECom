@@ -4,9 +4,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>order</title>
+<%@include file="bootstrap/header.jsp" %>
 </head>
 <body>
 
+<h2>Yes</h2>
+<h2>Yes</h2>
+<h2>Yes</h2>
+
+<%@include file="bootstrap/footer.jsp" %>
 </body>
 </html>

@@ -4,9 +4,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>cart</title>
+<%@include file="bootstrap/header.jsp" %>
 </head>
 <body>
 <h1>Welcome to my project</h1>
+
+<h2>Yes</h2>
+<h2>Yes</h2>
+<h2>Yes</h2>
+
+<%@include file="bootstrap/footer.jsp" %>
 </body>
 </html>
