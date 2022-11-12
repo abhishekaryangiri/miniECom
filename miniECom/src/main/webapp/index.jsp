@@ -5,9 +5,10 @@
 <head>
 <title>Purana Bazar</title>
 <%@include file="bootstrap/header.jsp"%>
+<%@include file="bootstrap/navbar.jsp"%>
 </head>
 <body>
-	
+
 	<%@include file="bootstrap/footer.jsp"%>
 </body>
 </html>
