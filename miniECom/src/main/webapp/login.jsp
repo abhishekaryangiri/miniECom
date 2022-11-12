@@ -6,8 +6,10 @@
 <meta charset="UTF-8">
 <title>login</title>
 <%@include file="bootstrap/header.jsp"%>
+
 </head>
-<body class=" text-primary" >
+<body class=" text-primary ">
+<%@include file="bootstrap/navbar.jsp"%>
 	<div class="container ">
 		<div class="card w-50 mx-auto my-5">
 			<div class="card-header text-center">Please Login first</div>

@@ -8,6 +8,7 @@
 <%@include file="bootstrap/header.jsp" %>
 </head>
 <body>
+<%@include file="bootstrap/navbar.jsp"%>
 
 <h2>Yes</h2>
 <h2>Yes</h2>
